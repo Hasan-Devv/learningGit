@@ -7,3 +7,4 @@ const calculatePower = (a, b) => {
 }
 
 const variable = "myVariable"
+const newVar = "new variable"
