@@ -1,0 +1,10 @@
+{
+        "name" : "hasan",
+        "age" : 16,
+        "address" : {
+            "street" : "123 new Street",
+            "town" : "New York City"
+        }
+        
+}
+
